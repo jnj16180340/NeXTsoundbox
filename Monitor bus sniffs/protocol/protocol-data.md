@@ -1,0 +1,630 @@
+* * * * *
+
+Overview
+========
+
+[MOCI signals](#table0)
+ [MICO signals](#table1)
+
+* * * * *
+
+Sheet 1: *MOCI signals*
+=======================
+
+**keypress**
+
+**info**
+
+**
+**
+
+**
+**
+
+**
+**
+
+**
+**
+
+**
+**
+
+**
+**
+
+**
+**
+
+**
+**
+
+a down
+
+mash\_a.vcd signal 2 of 4
+
+(length 41)
+
+0x1c610008039
+
+0b11100011000010000000000001000000000111001
+
+a up
+
+mash\_a.vcd signal 1 of 4
+
+(length 41)
+
+0x1c6100080b9
+
+0b11100011000010000000000001000000010111001
+
+DIM down
+
+mash\_dim.vcd signal 1 of 5
+
+(length 41)
+
+0x1c610008001
+
+0b11100011000010000000000001000000000000001
+
+DIM up
+
+mash\_dim.vcd signal 2 of 5
+
+(length 41)
+
+0x1c610008081
+
+0b11100011000010000000000001000000010000001
+
+BRIGHT down
+
+mash\_bright.vcd signal 1 of 3
+
+(length 41)
+
+0x1c610008019
+
+0b11100011000010000000000001000000000011001
+
+BRIGHT up
+
+mash\_bright.vcd signal 2 of 3
+
+(length 41)
+
+0x1c610008099
+
+0b11100011000010000000000001000000010011001
+
+q down
+
+qwertyTOjklColonQuote.vcd signal 1 of 57
+
+(length 41)
+
+0x1c610008042
+
+0b11100011000010000000000001000000001000010
+
+q up
+
+qwertyTOjklColonQuote.vcd signal 2 of 57
+
+(length 41)
+
+0x1c6100080c2
+
+0b11100011000010000000000001000000011000010
+
+w down
+
+qwertyTOjklColonQuote.vcd signal 3 of 57
+
+(length 41)
+
+0x1c610008043
+
+0b11100011000010000000000001000000001000011
+
+qwertyTOjklColonQuote.vcd signal 4 of 57
+
+(length 41)
+
+0x1c6100080c3
+
+0b11100011000010000000000001000000011000011
+
+e down
+
+qwertyTOjklColonQuote.vcd signal 5 of 57
+
+(length 41)
+
+0x1c610008044
+
+0b11100011000010000000000001000000001000100
+
+qwertyTOjklColonQuote.vcd signal 6 of 57
+
+(length 41)
+
+0x1c6100080c4
+
+0b11100011000010000000000001000000011000100
+
+r down
+
+qwertyTOjklColonQuote.vcd signal 7 of 57
+
+(length 41)
+
+0x1c610008045
+
+0b11100011000010000000000001000000001000101
+
+qwertyTOjklColonQuote.vcd signal 8 of 57
+
+(length 41)
+
+0x1c6100080c5
+
+0b11100011000010000000000001000000011000101
+
+t down
+
+qwertyTOjklColonQuote.vcd signal 9 of 57
+
+(length 41)
+
+0x1c610008048
+
+0b11100011000010000000000001000000001001000
+
+qwertyTOjklColonQuote.vcd signal 10 of 57
+
+(length 41)
+
+0x1c6100080c8
+
+0b11100011000010000000000001000000011001000
+
+y down
+
+qwertyTOjklColonQuote.vcd signal 11 of 57
+
+(length 41)
+
+0x1c610008047
+
+0b11100011000010000000000001000000001000111
+
+qwertyTOjklColonQuote.vcd signal 12 of 57
+
+(length 41)
+
+0x1c6100080c7
+
+0b11100011000010000000000001000000011000111
+
+u down
+
+qwertyTOjklColonQuote.vcd signal 13 of 57
+
+(length 41)
+
+0x1c610008046
+
+0b11100011000010000000000001000000001000110
+
+qwertyTOjklColonQuote.vcd signal 14 of 57
+
+(length 41)
+
+0x1c6100080c6
+
+0b11100011000010000000000001000000011000110
+
+I down
+
+qwertyTOjklColonQuote.vcd signal 15 of 57
+
+(length 41)
+
+0x1c610008006
+
+0b11100011000010000000000001000000000000110
+
+qwertyTOjklColonQuote.vcd signal 16 of 57
+
+(length 41)
+
+0x1c610008086
+
+0b11100011000010000000000001000000010000110
+
+o down
+
+qwertyTOjklColonQuote.vcd signal 17 of 57
+
+(length 41)
+
+0x1c610008007
+
+0b11100011000010000000000001000000000000111
+
+qwertyTOjklColonQuote.vcd signal 18 of 57
+
+(length 41)
+
+0x1c610008087
+
+0b11100011000010000000000001000000010000111
+
+p dpwn
+
+qwertyTOjklColonQuote.vcd signal 19 of 57
+
+(length 41)
+
+0x1c610008008
+
+0b11100011000010000000000001000000000001000
+
+qwertyTOjklColonQuote.vcd signal 20 of 57
+
+(length 41)
+
+0x1c610008088
+
+0b11100011000010000000000001000000010001000
+
+[ down
+
+qwertyTOjklColonQuote.vcd signal 21 of 57
+
+(length 41)
+
+0x1c610008005
+
+0b11100011000010000000000001000000000000101
+
+qwertyTOjklColonQuote.vcd signal 22 of 57
+
+(length 41)
+
+0x1c610008085
+
+0b11100011000010000000000001000000010000101
+
+] down
+
+qwertyTOjklColonQuote.vcd signal 23 of 57
+
+(length 41)
+
+0x1c610008004
+
+0b11100011000010000000000001000000000000100
+
+qwertyTOjklColonQuote.vcd signal 24 of 57
+
+(length 41)
+
+0x1c610008084
+
+0b11100011000010000000000001000000010000100
+
+a down
+
+qwertyTOjklColonQuote.vcd signal 25 of 57
+
+(length 41)
+
+0x1c610008039
+
+0b11100011000010000000000001000000000111001
+
+qwertyTOjklColonQuote.vcd signal 26 of 57
+
+(length 41)
+
+0x1c6100080b9
+
+0b11100011000010000000000001000000010111001
+
+s down
+
+qwertyTOjklColonQuote.vcd signal 27 of 57
+
+(length 41)
+
+0x1c61000803a
+
+0b11100011000010000000000001000000000111010
+
+qwertyTOjklColonQuote.vcd signal 28 of 57
+
+(length 41)
+
+0x1c6100080ba
+
+0b11100011000010000000000001000000010111010
+
+d down
+
+qwertyTOjklColonQuote.vcd signal 29 of 57
+
+(length 41)
+
+0x1c61000803b
+
+0b11100011000010000000000001000000000111011
+
+qwertyTOjklColonQuote.vcd signal 30 of 57
+
+(length 41)
+
+0x1c6100080bb
+
+0b11100011000010000000000001000000010111011
+
+f down
+
+qwertyTOjklColonQuote.vcd signal 31 of 57
+
+(length 41)
+
+0x1c61000803c
+
+0b11100011000010000000000001000000000111100
+
+qwertyTOjklColonQuote.vcd signal 32 of 57
+
+(length 41)
+
+0x1c6100080bc
+
+0b11100011000010000000000001000000010111100
+
+g down
+
+qwertyTOjklColonQuote.vcd signal 33 of 57
+
+(length 41)
+
+0x1c61000803d
+
+0b11100011000010000000000001000000000111101
+
+qwertyTOjklColonQuote.vcd signal 34 of 57
+
+(length 41)
+
+0x1c6100080bd
+
+0b11100011000010000000000001000000010111101
+
+h down
+
+qwertyTOjklColonQuote.vcd signal 35 of 57
+
+(length 41)
+
+0x1c610008040
+
+0b11100011000010000000000001000000001000000
+
+qwertyTOjklColonQuote.vcd signal 36 of 57
+
+(length 41)
+
+0x1c6100080c0
+
+0b11100011000010000000000001000000011000000
+
+j down
+
+qwertyTOjklColonQuote.vcd signal 37 of 57
+
+(length 41)
+
+0x1c61000803f
+
+0b11100011000010000000000001000000000111111
+
+qwertyTOjklColonQuote.vcd signal 38 of 57
+
+(length 41)
+
+0x1c6100080bf
+
+0b11100011000010000000000001000000010111111
+
+k down
+
+qwertyTOjklColonQuote.vcd signal 39 of 57
+
+(length 41)
+
+0x1c61000803e
+
+0b11100011000010000000000001000000000111110
+
+qwertyTOjklColonQuote.vcd signal 40 of 57
+
+(length 41)
+
+0x1c6100080be
+
+0b11100011000010000000000001000000010111110
+
+l down
+
+qwertyTOjklColonQuote.vcd signal 41 of 57
+
+(length 41)
+
+0x1c61000802d
+
+0b11100011000010000000000001000000000101101
+
+qwertyTOjklColonQuote.vcd signal 42 of 57
+
+(length 41)
+
+0x1c6100080ad
+
+0b11100011000010000000000001000000010101101
+
+; down
+
+qwertyTOjklColonQuote.vcd signal 43 of 57
+
+(length 41)
+
+0x1c61000802c
+
+0b11100011000010000000000001000000000101100
+
+qwertyTOjklColonQuote.vcd signal 44 of 57
+
+(length 41)
+
+0x1c6100080ac
+
+0b11100011000010000000000001000000010101100
+
+' down
+
+qwertyTOjklColonQuote.vcd signal 45 of 57
+
+(length 41)
+
+0x1c61000802b
+
+0b11100011000010000000000001000000000101011
+
+qwertyTOjklColonQuote.vcd signal 46 of 57
+
+(length 41)
+
+0x1c6100080ab
+
+0b11100011000010000000000001000000010101011
+
+ENTER down
+
+qwertyTOjklColonQuote.vcd signal 47 of 57
+
+(length 41)
+
+0x1c61000802a
+
+0b11100011000010000000000001000000000101010
+
+qwertyTOjklColonQuote.vcd signal 48 of 57
+
+(length 41)
+
+0x1c6100080aa
+
+0b11100011000010000000000001000000010101010
+
+z down
+
+qwertyTOjklColonQuote.vcd signal 49 of 57
+
+(length 41)
+
+0x1c610008031
+
+0b11100011000010000000000001000000000110001
+
+qwertyTOjklColonQuote.vcd signal 50 of 57
+
+(length 41)
+
+0x1c6100080b1
+
+0b11100011000010000000000001000000010110001
+
+x down
+
+qwertyTOjklColonQuote.vcd signal 51 of 57
+
+(length 41)
+
+0x1c610008032
+
+0b11100011000010000000000001000000000110010
+
+qwertyTOjklColonQuote.vcd signal 52 of 57
+
+(length 41)
+
+0x1c6100080b2
+
+0b11100011000010000000000001000000010110010
+
+c down
+
+qwertyTOjklColonQuote.vcd signal 53 of 57
+
+(length 41)
+
+0x1c610008033
+
+0b11100011000010000000000001000000000110011
+
+qwertyTOjklColonQuote.vcd signal 54 of 57
+
+(length 41)
+
+0x1c6100080b3
+
+0b11100011000010000000000001000000010110011
+
+v down
+
+qwertyTOjklColonQuote.vcd signal 55 of 57
+
+(length 41)
+
+0x1c610008034
+
+0b11100011000010000000000001000000000110100
+
+qwertyTOjklColonQuote.vcd signal 56 of 57
+
+(length 41)
+
+0x1c6100080b4
+
+0b11100011000010000000000001000000010110100
+
+b down
+
+qwertyTOjklColonQuote.vcd signal 57 of 57
+
+(length 41)
+
+0x1c610008035
+
+0b11100011000010000000000001000000000110101
+
+* * * * *
+
+Sheet 2: *MICO signals*
+=======================
+
+||
+|**keypress**|**info**|**
+**|**
+**|**
+**|
+|key query?|mash\_a.vcd signal 1 of 5|(length 40)|0xe300fffffb|0b1110001100000000111111111111111111111011|
+
+
