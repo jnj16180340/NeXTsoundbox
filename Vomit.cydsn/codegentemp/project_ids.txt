@@ -1,0 +1,5 @@
+C:\Documents and Settings\Admin\Desktop\NeXTsoundbox staging area\Vomit.cydsn\Vomit.cyprj|daa3bcb9-3bd2-426b-80ef-dfb10d7f291a
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b4fa3235-052f-49ba-a86e-44effeeb95f5
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|a05fb1d0-e6ed-4bbe-a503-42d54b3548b2
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1f454a13-9817-4b78-a39e-a90e762016cf
+C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|086b25a4-73e4-47cc-b25b-682f8125b9e7
