@@ -1,0 +1,18 @@
+From HID keybd output/button press
+
+MICO says (always):
+A456F246
+1010 0100 0101 0110 1111 0010 0100 0110
+
+real query: e300fffffb
+real query: 1110 0011 0000 0000 1111 1111 1111 1111 1111 1011
+
+
+MOCI says (always):
+9A100297
+1001 1010 0001 0000 0000 0010 1001 0111
+
+real response: 0x1c6100080**
+real response: 0b111000110000100000000000010000000********
+
+
